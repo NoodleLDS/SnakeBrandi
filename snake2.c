@@ -198,6 +198,7 @@ void logic() {
         fruitY = rand() % HEIGHT;
         tailLength++;
         playFruitSound();
+        changeColor();
     }
     if (x2 == fruitX && y2 == fruitY) {
         score2 += 50;
@@ -205,6 +206,7 @@ void logic() {
         fruitY = rand() % HEIGHT;
         tailLength2++;
         playFruitSound();
+        changeColor();
     }
 
     int speed = 100 - (score/ 10);
