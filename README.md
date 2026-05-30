@@ -1,3 +1,5 @@
+
+
 # 🐍 SnakeBrandi
 <img width="475" height="260" alt="image" src="https://github.com/user-attachments/assets/c5c951fb-e20c-4189-a390-039156d43fb7" />
 <img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/7bb2dedd-8754-4d0b-8faf-df97a7637970" />
@@ -14,8 +16,7 @@
 ![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 > A two-player Snake game written in C — local multiplayer, adaptive speed, sound effects, and a persistent high score. Runs entirely in the Windows terminal.
-
-<img width="500" height="282" alt="2026-05-3002-15-57-ezgif com-video-to-gif-converter" src="https://github.com/user-attachments/assets/94658b8c-ce21-4a9f-a5be-00348dcbef9f" />
+[2026-05-30 02-15-57.webm](https://github.com/user-attachments/assets/eba15db1-7e66-47a8-a362-d72f630043c6)
 
 ---
 
