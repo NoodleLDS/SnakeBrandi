@@ -1,11 +1,10 @@
 # 🐍 SnakeBrandi
 <img width="475" height="260" alt="image" src="https://github.com/user-attachments/assets/c5c951fb-e20c-4189-a390-039156d43fb7" />
-
-
+<img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/7bb2dedd-8754-4d0b-8faf-df97a7637970" />
 <img width="513" height="565" alt="image" src="https://github.com/user-attachments/assets/7f070b1e-2381-4f28-bea8-39c57309ac8a" />
 
 
-<img width="487" height="270" alt="image" src="https://github.com/user-attachments/assets/7bb2dedd-8754-4d0b-8faf-df97a7637970" />
+
 
 
 
